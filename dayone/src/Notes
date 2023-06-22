@@ -1,0 +1,19 @@
+ORM-object relational mapping
+object is any real world entity
+persistence means outlive the application means when we connect one application to another
+
+mismatch problem 
+granularity
+inheritance
+identity 
+association
+
+
+//Entity Manager-CRUD methods
+	//create->persist(obj)
+	//retrieve->find(PK)
+	//update->merge(obj)
+	//delete->remove(PK);
+	
+Entity manager is the primary interface to interact with JPA during run time.
+Persistence Context is memory area for the entity manage to work for entity instance.
