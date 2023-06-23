@@ -1,0 +1,14 @@
+Entity association-in hibernate entity are classes
+	   association- is relation between two entities
+			ex-reltion between 2 ppl can be frnd ,classmate etc.
+			
+why to use association-their is no directionality in entities for that we have association
+						and thus there are 2 types of association-
+											unidirectional-one to one 
+														   one to many
+														   many to many
+											birectional-one to one
+														one to many/many to one-without join table
+																				with join tble
+										
+Inheritance is a Is-A relationship
