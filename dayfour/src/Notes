@@ -1,0 +1,7 @@
+JPQL-
+-is used to make queries against entities stored in a relatioal database
+-it is object oriiented
+
+JPQL-similar to SQL
+    -PSQL works on java classess object properties
+    -SQL works on row column databse
